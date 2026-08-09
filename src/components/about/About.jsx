@@ -1,8 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/profile3.jpg";
-import CV from "../../assets/Tung_Yan_Zuo_CV.pdf";
-import resume from "../../assets/Tung_Yan_Zuo_Resume.pdf";
+import CV from "../../assets/TungYanZuo_CV.pdf";
 import Info from './Info';
 
 const About = () => {
@@ -29,8 +28,8 @@ const About = () => {
                     for both innovation and societal betterment.
                 </p>
                 
-                <a download="" href={resume} className="button button--flex">
-                  Download Résumé
+                <a download="" href={CV} className="button button--flex">
+                  Download CV
                   <svg
                     class="button__icon"
                     xmlns="http://www.w3.org/2000/svg"

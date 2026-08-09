@@ -96,9 +96,40 @@ const Qualification = () => {
                     <div className="qualification__data">
                         <div>
                             <h3 className="qualification__title">Software Engineer Intern</h3>
+                            <span className="qualification__subtitle">Rhaeos Inc.</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> 2025 Aug - 2026 Jul
+                            </div>
+                        </div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                    </div>
+
+                    <div className="qualification__data">
+                        <div></div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+
+                        <div>
+                            <h3 className="qualification__title">Software Engineer Intern</h3>
+                            <span className="qualification__subtitle">Y3 Technologies</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calendar-alt"></i> 2025 May - 2025 Aug
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="qualification__data">
+                        <div>
+                            <h3 className="qualification__title">Software Engineer Intern</h3>
                             <span className="qualification__subtitle">Backbone Pte. Ltd.</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2024 - Present
+                                <i className="uil uil-calendar-alt"></i> 2024 Sep - 2025 May
                             </div>
                         </div>
                         <div>
@@ -119,7 +150,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Admin & Training Specialist</h3>
                             <span className="qualification__subtitle">Minstry of Defence (NS)</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - 2023
+                                <i className="uil uil-calendar-alt"></i> 2021 Oct - 2023 Aug
                             </div>
                         </div>
                     </div>
@@ -129,7 +160,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Software Engineer Intern</h3>
                             <span className="qualification__subtitle">Defence Science & Technology Agency</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"></i> 2021 - 2021
+                                <i className="uil uil-calendar-alt"></i> 2021 Mar - 2021 Jun
                             </div>
                         </div>
                         <div>

@@ -6,33 +6,57 @@ import LegoProject from "../../assets/LegoProject.png";
 import FYP_robot1 from "../../assets/FYP_robot1.jpg";
 import Rnd_project1 from "../../assets/Rnd_project1.jpg";
 import NRC_Robot from "../../assets/NRC_Robot.jpg";
+import TalentSG from "../../assets/talentSG_frontpage.png";
+import SQLancer from "../../assets/sql_lancer_github.png";
 
 
 export const projectsData = [
     {
       id: 1,
+      image: SQLancer,
+      title: "SQLancer Benchmarker",
+      category: "School",
+      backgroundDate: "Jan 2025 - May 2025",
+      backgroundTech: "Next.js, Shadcn, TypeScript, Tailwind CSS, ReactJS, NodeJS",
+      backgroundTitle: "NUS Software Engineering Project",
+      background: "Created a web-based benchmarker for SQLancer, a tool for testing the security of SQL databases. It is a tool that can be used to test the security of SQL databases by generating random SQL queries and testing them against the database.",
+      link: "https://github.com/sqlancer/sqlancer",
+    },
+    {
+      id: 2,
+      image: TalentSG,
+      title: "TalentSG Web App",
+      category: "School",
+      backgroundDate: "Oct 2024 - Dec 2024",
+      backgroundTech: "JavaX, CSS, Java",
+      backgroundTitle: "Lead Software Developer",
+      background: "Implemented a web app, a job portal for talent acquisition, which allows users to manage users and their application status.",
+      link: "https://ay2425s1-cs2103t-t09-2.github.io/tp/",
+    },
+    {
+      id: 3,
       image: PHS,
       title: "PHS Health Screening 2024",
       category: "Non-School",
-      backgroundDate: "May 2024 - Present",
+      backgroundDate: "May 2024 - Aug 2024",
       backgroundTech: "JavaScript, ReactJS, MongoDB",
       backgroundTitle: "Self-Sourced Project - Lead Software Developer",
       background: "This is an annual health screening by Public Health Service (PHS). I led a team of 4 developers to update and streamline the developement of the current website to its lastest requirement. This website has impacted more than 250 users.",
       link: "https://www.publichealthservice.org/health-screening",
     },
     {
-      id: 2,
+      id: 4,
       image: unifyTime,
       title: "UniFyTime (Orbital)",
       category: "School",
-      backgroundDate: "May 2024 - Present",
+      backgroundDate: "May 2024 - Aug 2024",
       backgroundTech: "JavaScript, ReactJS, Firebase, Telegraf.js",
       backgroundTitle: "Summer Module Project",
       background: "Created a web-based calendar system which encompassed a Telegram Bot Integration",
       link: "https://unify-time.vercel.app/",
     },  
     {
-      id: 3,
+      id: 5,
       image: ParadeStateProj,
       title: "Parade State Project",
       category: "Non-School",
@@ -43,7 +67,7 @@ export const projectsData = [
       link: "https://drive.google.com/file/d/18pl2Rn5UUkmvBA5IxlcUsSUNbdRFXsTK/view?usp=sharing",
     },
     {
-      id: 4,
+      id: 6,
       image: dsta,
       title: "AI Chatbot & MLOps",
       category: "Non-School",
@@ -54,7 +78,7 @@ export const projectsData = [
       link: "https://rasa.com/docs/rasa/",
     },
     {
-      id: 5,
+      id: 7,
       image: LegoProject,
       title: "Lego Brick Detection",
       category: "School",
@@ -65,7 +89,7 @@ export const projectsData = [
       link: "https://drive.google.com/file/d/1wbu8WojZS0Mn_pDxRTtFRHj2SroiPaLu/view?usp=sharing",
     },
     {
-      id: 6,
+      id: 8,
       image: FYP_robot1,
       title: "Autonomous Security Surveillance",
       category: "School",
@@ -76,7 +100,7 @@ export const projectsData = [
       link: "https://drive.google.com/file/d/17zSOAsQ2pmVJUwayGophEfGVmdz96ogB/view?usp=sharing",
     },
     {
-      id: 7,
+      id: 9,
       image: Rnd_project1,
       title: "Mental Health Optimisation",
       category: "School",
@@ -87,7 +111,7 @@ export const projectsData = [
       link: "https://drive.google.com/file/d/1JX8zxDpHRwfjiBLNBnhXCaZ0xRf7EYaS/view?usp=sharing",
     },
     {
-      id: 8,
+      id: 10,
       image: NRC_Robot,
       title: "National Robotic Competition",
       category: "Non-School",
