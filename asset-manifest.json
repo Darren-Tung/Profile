@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/Profile/static/css/main.86037962.css",
-    "main.js": "/Profile/static/js/main.65f4f123.js",
+    "main.js": "/Profile/static/js/main.378255cb.js",
     "static/js/787.d4aba7ab.chunk.js": "/Profile/static/js/787.d4aba7ab.chunk.js",
     "static/media/profile2.jpg": "/Profile/static/media/profile2.46052d54d77fbb86047c.jpg",
     "static/media/profile3.jpg": "/Profile/static/media/profile3.ba6f1cac5bc3941e4e90.jpg",
-    "static/media/Tung_Yan_Zuo_CV.pdf": "/Profile/static/media/Tung_Yan_Zuo_CV.892ff99d8ef00f8cdd5e.pdf",
+    "static/media/sql_lancer_github.png": "/Profile/static/media/sql_lancer_github.7e13833335a6c4f13856.png",
     "static/media/dsta.png": "/Profile/static/media/dsta.0e6d76d7c6ace7063a09.png",
     "static/media/skills_nodeJS_icon.png": "/Profile/static/media/skills_nodeJS_icon.14cdee7fa498e8a7c7d3.png",
     "static/media/skills_firebase_icon.png": "/Profile/static/media/skills_firebase_icon.3760741c1e30456d53ff.png",
+    "static/media/TungYanZuo_CV.pdf": "/Profile/static/media/TungYanZuo_CV.21b82236fac953494bb4.pdf",
     "static/media/skills_cv2_icon.png": "/Profile/static/media/skills_cv2_icon.6c68f4af1ba700bab410.png",
     "static/media/Rnd_project1.jpg": "/Profile/static/media/Rnd_project1.74f8997ec7fffc8cbc9f.jpg",
     "static/media/NRC_Robot.jpg": "/Profile/static/media/NRC_Robot.8cfc82468cc496028107.jpg",
+    "static/media/talentSG_frontpage.png": "/Profile/static/media/talentSG_frontpage.3fc2efbb06a5980c31c2.png",
     "static/media/FYP_robot1.jpg": "/Profile/static/media/FYP_robot1.eb0bd70787fdfa185a4d.jpg",
     "static/media/LegoProject.png": "/Profile/static/media/LegoProject.15c1eabe4d27a190083f.png",
     "static/media/work_PHS.png": "/Profile/static/media/work_PHS.4b8a6029d8029b79b4e3.png",
-    "static/media/Tung_Yan_Zuo_Resume.pdf": "/Profile/static/media/Tung_Yan_Zuo_Resume.08ad43ee227a098d1894.pdf",
     "static/media/skills_javascript_icon.png": "/Profile/static/media/skills_javascript_icon.83f816a137ee2ef5f733.png",
     "static/media/skills_google_app_script_icon.png": "/Profile/static/media/skills_google_app_script_icon.bf91e879fed07f7747fd.png",
     "static/media/ParadeStateProj.jpg": "/Profile/static/media/ParadeStateProj.831d98c62ba9bf083bb3.jpg",
@@ -26,11 +27,11 @@
     "static/media/skills_Csharp_icon.webp": "/Profile/static/media/skills_Csharp_icon.fe531ce21790f26d4a01.webp",
     "index.html": "/Profile/index.html",
     "main.86037962.css.map": "/Profile/static/css/main.86037962.css.map",
-    "main.65f4f123.js.map": "/Profile/static/js/main.65f4f123.js.map",
+    "main.378255cb.js.map": "/Profile/static/js/main.378255cb.js.map",
     "787.d4aba7ab.chunk.js.map": "/Profile/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86037962.css",
-    "static/js/main.65f4f123.js"
+    "static/js/main.378255cb.js"
   ]
 }
