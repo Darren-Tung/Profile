@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Profile/static/css/main.86037962.css",
-    "main.js": "/Profile/static/js/main.378255cb.js",
+    "main.js": "/Profile/static/js/main.c25168e5.js",
     "static/js/787.d4aba7ab.chunk.js": "/Profile/static/js/787.d4aba7ab.chunk.js",
     "static/media/profile2.jpg": "/Profile/static/media/profile2.46052d54d77fbb86047c.jpg",
     "static/media/profile3.jpg": "/Profile/static/media/profile3.ba6f1cac5bc3941e4e90.jpg",
@@ -9,7 +9,7 @@
     "static/media/dsta.png": "/Profile/static/media/dsta.0e6d76d7c6ace7063a09.png",
     "static/media/skills_nodeJS_icon.png": "/Profile/static/media/skills_nodeJS_icon.14cdee7fa498e8a7c7d3.png",
     "static/media/skills_firebase_icon.png": "/Profile/static/media/skills_firebase_icon.3760741c1e30456d53ff.png",
-    "static/media/TungYanZuo_CV.pdf": "/Profile/static/media/TungYanZuo_CV.21b82236fac953494bb4.pdf",
+    "static/media/TungYanZuo_CV.pdf": "/Profile/static/media/TungYanZuo_CV.f3ae5db53d19745aa04e.pdf",
     "static/media/skills_cv2_icon.png": "/Profile/static/media/skills_cv2_icon.6c68f4af1ba700bab410.png",
     "static/media/Rnd_project1.jpg": "/Profile/static/media/Rnd_project1.74f8997ec7fffc8cbc9f.jpg",
     "static/media/NRC_Robot.jpg": "/Profile/static/media/NRC_Robot.8cfc82468cc496028107.jpg",
@@ -27,11 +27,11 @@
     "static/media/skills_Csharp_icon.webp": "/Profile/static/media/skills_Csharp_icon.fe531ce21790f26d4a01.webp",
     "index.html": "/Profile/index.html",
     "main.86037962.css.map": "/Profile/static/css/main.86037962.css.map",
-    "main.378255cb.js.map": "/Profile/static/js/main.378255cb.js.map",
+    "main.c25168e5.js.map": "/Profile/static/js/main.c25168e5.js.map",
     "787.d4aba7ab.chunk.js.map": "/Profile/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86037962.css",
-    "static/js/main.378255cb.js"
+    "static/js/main.c25168e5.js"
   ]
 }
